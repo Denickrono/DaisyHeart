@@ -6,6 +6,8 @@ A 16-LED heart-shaped display driven by an ATtiny85 microcontroller and two 74HC
 
 <img width="896" height="1196" alt="image" src="https://github.com/user-attachments/assets/bc455dea-c2b0-4b8f-8151-072f9f0aed07" />
 
+Link to ensamples  https://youtu.be/dNeGOBqm8pQ
+
 ## 🛠️ Hardware Used
 *   1x ATtiny85 (on headers for easy reprogramming)
 *   2x 74HC595 Shift Registers
@@ -27,3 +29,4 @@ A 16-LED heart-shaped display driven by an ATtiny85 microcontroller and two 74HC
 ## ⚠️ Lessons Learned
 *   Always use a multimeter in continuity mode to check for cold solder joints on the shift register outputs.
 *   Ensure the ATtiny85 is removed from the board when uploading code via the Arduino Uno ISP.
+*   
